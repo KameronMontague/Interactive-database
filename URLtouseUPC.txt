@@ -1,0 +1,3 @@
+this url must be used to grab images from google. You must change the numbers after UPC by inserting a veriable that connects from user input. 
+
+https://www.google.com/search?hl=en&noj=1&biw=1513&bih=1038&tbm=isch&sa=1&q=UPC+884335256918&oq=UPC+884335256918&gs_l
